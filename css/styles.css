@@ -1,0 +1,43 @@
+body {
+    font-size: 16px;
+    background-color: #f9dddb;
+}
+
+#header-nav {
+    background-color: #fff5ee;
+}
+
+.navbar-header h1 {
+    font-size: 32px;
+    margin: -7px 10px 0;
+}
+
+#menu-items-menu a {
+    text-align: center;
+}
+
+#menu-items-menu a:hover {
+    background: #d3d3d3
+}
+
+#menu-items-menu hr {
+    margin: 0 auto 0;
+    border-top: 1px solid #929599;
+    width: 95%;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+#menu-item-chicken, #menu-item-beef, #menu-item-sushi {
+    background-color: #ff5171;
+}
+
+h3 {
+    padding-top: 10px;
+}
+
+p {
+   padding-left: 10px;
+}
